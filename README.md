@@ -7,4 +7,3 @@ To use the bridge:
 - Start the Bridge API, listeningScript.ts
 - Try to make a transfer, using transfer_bsc_eth.ts or transfer_eth_bsc.ts
 - To get the balance, use getBalance.ts
-```
